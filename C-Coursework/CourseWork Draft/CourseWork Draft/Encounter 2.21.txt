@@ -1,0 +1,5 @@
+The guard tells you that the door on the left leads to the armoury, where they keep the armour and other equipment.
+
+The one on the right is the blacksmiths workshop where they have their swords made.
+
+Lastly he says the middle door goes to the creepy alchemists lab, in which they are healed with herbs and draughts.

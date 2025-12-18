@@ -1,0 +1,12 @@
+The Thief relies on steal and sneak attacks to complete assignments.
+
+Starting stats / Equipment:
+
+Weapon: Daggers
+Armour: Medium
+
+Health: 50
+Armour: 5
+Attack: 6
+Sneak: 10
+Speech: 4

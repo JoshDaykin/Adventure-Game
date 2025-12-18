@@ -1,0 +1,12 @@
+You will be read a scenario and given three options to choose from.
+
+The choice you make will decide how the current encounter ends and how the next one will start.
+
+Example:
+
+There is a guard ahead, will you attack or sneak past?
+
+1)Attack the guard
+2)Sneak past the guard
+3)Talk to the guard
+4)Exit and save

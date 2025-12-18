@@ -1,0 +1,11 @@
+The Bard talks his way around anything and everyone to complete missions.
+
+Starting stats / Equipment:
+
+Weapon: Single Dagger
+Armour: Plain Clothes
+Health: 50
+Armour: 3
+Attack: 2
+Sneak: 5
+Speech: 10

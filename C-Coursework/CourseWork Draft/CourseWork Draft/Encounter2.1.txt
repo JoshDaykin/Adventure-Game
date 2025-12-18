@@ -1,0 +1,14 @@
+You were spotted at the gate, now the base has been alerted. Expect to find more guards and tougher enemies.
+
+After making your move at the gate, you continued to search for the chalice. You come to 3 passages each with a different room at the end.
+All doors are locked and each passage has an enemy of some sort blocking its path.
+
+Which path will you risk?
+
+
+1)Middle Door. The guard at the end looks stupid, but his equipment looks quite strong. The room behind him look like some sort of alchemy lab, there might be some useful potions.
+
+2)Left Door. This particular guard seems alert and skilled. It looks like their armoury is behind this guard. Maybe you could steal some stronger armour.
+
+3)Right Door. This path looks like it leads to the smithy from the small hammer wielding man outside. Perhaps you can get him to give you a better weapon.
+4)Exit and save

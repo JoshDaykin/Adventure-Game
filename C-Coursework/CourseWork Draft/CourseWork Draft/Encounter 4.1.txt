@@ -1,0 +1,11 @@
+After finding some new equipment and potions, you stumble through another door and see something dazzling in the light. It's the chalice!
+
+Unfortunately it's hooked on the belt of a very powerful foe, the leader of the group of bandits is wearing it like a belt buckle.
+Luckily since you haven't raised suspicion he has no armour on and his weapon is sheathed.
+
+You need to think fast on what to do:
+
+1)Attack
+2)Persuade him to give the chalice back
+3)Swipe the chalice from him
+4)Exit and save

@@ -1,0 +1,14 @@
+A warrior that relies on brute strength to complete their missions.
+
+Starting stats / Equipment:
+
+Weapon: Sword
+Armour: Heavy
+
+Health: 50
+Armour: 7
+Attack: 10
+Sneak: 2
+Speech: 1
+
+HINT: This is the best class if you just want to fight
